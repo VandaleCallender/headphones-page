@@ -98,8 +98,19 @@
 }
 #design-by .design-container .icons-section  .refresh-circle{
     position: absolute;
-    left: 0;
-    top: 0;
+    left: 45%;
+    top: 42%;
+    width: 80px;
+    height: 80px;
+    background: white;
+    border-radius: 50%;
+} 
+#design-by .design-container .icons-section  .refresh-circle .fas{
+   position: relative;
+   color: #FEA83B;
+   font-size: 3rem;
+   top: 20px;
+   left: 17px;
 } 
 #design-by .design-container .icons-section .icon-box{
     width: 50%;
@@ -107,10 +118,11 @@
     display: inline-block;
     float: left;
     text-align: center;
-    border: 1px solid #000;
+    border: 1px solid #e9eff5;
     color: #6066f2;
     font-size: 1.3rem;
 }
 #design-by .design-container .icons-section .icon-box .fas{
    margin-bottom: 2rem;
+   margin-top: 50px;
 }
