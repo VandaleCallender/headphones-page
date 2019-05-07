@@ -36,7 +36,7 @@ background: linear-gradient(135deg, #ffffff 1%,#ffffff 40%,#8948f2 77%,#e0a1df 1
 
 #top-jumbo .left-side .info-container h1{
    font-size: 4.5rem;
-   color: #4C44C1;
+   color: #6066F2;
    text-transform: uppercase;
    margin-bottom: 1.5rem;
    line-height: 1.1;
@@ -44,10 +44,43 @@ background: linear-gradient(135deg, #ffffff 1%,#ffffff 40%,#8948f2 77%,#e0a1df 1
 }
 
 #top-jumbo .left-side .info-container p{
-   font-size: 1rem;
-   line-height: 1.5;
+   font-size: 1.5rem;
+   font-weight: 300;
+   line-height: 1.8;
    color: #aaacaf;
-   text-transform: capitalize;
+   
+  
+}
+#top-jumbo .left-side .info-container .email-area{
+  background: white;
+  border-radius: 50px; 
+  display: inline-block;
+  padding: 10px;
+  
+}
+#top-jumbo .left-side .info-container .email-area .far{
+  font-size: 2rem;
+  position: relative;
+  top: 7px;
+  margin-left: 15px;
+   
+}
+#top-jumbo .left-side .info-container .email-area input[type="email"]{
+  background: white;
+  border: none;
+  padding: 10px;
+  text-transform: uppercase;
+  font-size: 1rem;
+  width: 230px;
+   
+}
+#top-jumbo .left-side .info-container .email-area button{
+  background: #6066F2;
+  padding: 20px 50px;
+  color:white;
+  text-transform: uppercase;
+  font-size: 1rem;
+  border-radius: 50px; 
   
 }
 
@@ -55,6 +88,7 @@ background: linear-gradient(135deg, #ffffff 1%,#ffffff 40%,#8948f2 77%,#e0a1df 1
     width: 60%;
     display: inline-block;
     float: left;
+    padding: 0 40px;
 }
 
 #top-jumbo .right-side img{
