@@ -1,0 +1,33 @@
+#color-collection{
+    padding: 50px;
+}
+#color-collection:after{
+    content: "";
+    display: table;
+    clear: both;
+}
+#color-collection .left-side{
+    width: 60%;
+    display: inline-block;
+    float: left;
+    text-align: center;
+}
+#color-collection .left-side img{
+    width: 80%;
+    display: inline-block;
+    float: left;
+    
+}
+#color-collection .right-side{
+    width: 40%;
+    display: inline-block;
+    float: left;
+}
+#color-collection .right-side .swatch-area{
+    background: white;
+    padding: 20px;
+}
+#color-collection .right-side .swatch-area .circle {
+    width: 70px;
+    height: 70px;
+}
