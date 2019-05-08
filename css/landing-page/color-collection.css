@@ -117,7 +117,7 @@ background: linear-gradient(135deg, #be67e6 1%,#eca063 49%,#98bef5 75%); /* W3C,
 #color-collection .right-side .color-slider{
     position: relative;
     width: 20px;
-    height: 400px;
+    height: 600px;
     border-radius: 40px;
     background: #b183fb; 
     background: -moz-linear-gradient(top, #b183fb 1%, #f1a25a 29%, #a569dd 49%, #7c68f7 60%, #adccd8 77%, #da7ce7 100%); /* FF3.6-15 */
@@ -132,7 +132,7 @@ background: linear-gradient(135deg, #be67e6 1%,#eca063 49%,#98bef5 75%); /* W3C,
     background: #FEA83B; 
     box-sizing: content-box;
     position: absolute;
-    top: 99px;
+    top: 146px;
     left: -10px;
 }
 
