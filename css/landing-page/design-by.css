@@ -12,7 +12,7 @@
     position: relative;  
     background: #6066F2; 
     overflow: hidden;
-    padding: 45px;
+    padding: 47px;
 }
 #design-by .design-container:after{
     content: "";
