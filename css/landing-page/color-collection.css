@@ -1,7 +1,7 @@
 #color-collection{
     padding: 170px;
 }
-#color-collection .contanier:after{
+#color-collection:after{ 
     content: "";
     display: table;
     clear: both;
@@ -143,5 +143,5 @@ background: linear-gradient(135deg, #be67e6 1%,#eca063 49%,#98bef5 75%); /* W3C,
 }
 #color-collection .right-side .col-2{
     float: left;
-    width: 20%;
+    width: 20%; 
 }

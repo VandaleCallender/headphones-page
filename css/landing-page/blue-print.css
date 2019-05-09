@@ -26,15 +26,15 @@
    text-transform: capitalize;
    margin-bottom: 70px;
 }
-#blue-print .right-side .info-box.container:after{
+#blue-print .right-side .info-box {
+    padding: 0 0 50px;
+}
+#blue-print .right-side .info-box:after{
     content: "";
     display: table;
     clear: both;
 }
 
-#blue-print .right-side .info-box .icon-container{
-    
-}
 #blue-print .right-side .info-box .col-1{
     width: 60%;
     float: left;  
@@ -54,8 +54,13 @@
     margin: 0 auto;
     top: 14px;
     left: 13px;
-    position: absolute;
-    
+    position: absolute;  
+}
+#blue-print .right-side .info-box .col-1 .icon-container .fab, #blue-print .right-side .info-box .col-1 .icon-container .fas{
+    font-size: 4rem;
+    top: 47px;
+    left: 56px;
+    position: absolute;  
 }
 #blue-print .right-side .info-box .col-2{
     width: 60%;
