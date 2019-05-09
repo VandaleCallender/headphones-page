@@ -1,5 +1,5 @@
 #color-collection{
-    padding: 150px;
+    padding: 170px;
 }
 #color-collection .contanier:after{
     content: "";
@@ -24,7 +24,7 @@
     padding: 12px 20px;
     display: inline-block;
     border-radius: 45px;
-    margin-top: 133px;
+    margin-top: 13px;
     margin-bottom: 40px;
 }
 #color-collection .right-side .swatch-area:after{
@@ -142,6 +142,6 @@ background: linear-gradient(135deg, #be67e6 1%,#eca063 49%,#98bef5 75%); /* W3C,
     width: 80%;
 }
 #color-collection .right-side .col-2{
-     float: left;
+    float: left;
     width: 20%;
 }
