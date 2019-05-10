@@ -8,7 +8,6 @@
     content: "";
     display: table;
     clear: both;
-
 }
 #latest .header h1{
     color: #6066F2;
@@ -52,3 +51,56 @@
     color: #cecece;
     border: 1px solid #cecece;
 }
+#latest .body{
+    padding: 100px 0;
+}
+#latest .body:after{
+    content: "";
+    display: table;
+    clear: both;
+}
+#latest .body .column{
+    width: 33.33%;
+    float: left;
+    padding: 0 15px;
+    text-align: center;
+}
+#latest .body .column .bg-square {
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+    background: #b284fa; /* Old browsers */
+    background: -moz-linear-gradient(-45deg, #b284fa 0%, #b284fa 22%, #d8886c 39%, #f8a343 52%, #b685f2 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(-45deg, #b284fa 0%,#b284fa 22%,#d8886c 39%,#f8a343 52%,#b685f2 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(135deg, #b284fa 0%,#b284fa 22%,#d8886c 39%,#f8a343 52%,#b685f2 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    position: relative;
+}
+#latest .body .column .bg-square2 {
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+    background: #af60e1; /* Old browsers */
+    background: -moz-linear-gradient(-45deg, #af60e1 1%, #7a66f4 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(-45deg, #af60e1 1%,#7a66f4 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(135deg, #af60e1 1%,#7a66f4 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    position: relative;
+}
+ 
+#latest .body .column .bg-square3 {
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+    background: #c991c5; /* Old browsers */
+    background: -moz-linear-gradient(-45deg, #c991c5 1%, #bb817f 49%, #8caaf3 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(-45deg, #c991c5 1%,#bb817f 49%,#8caaf3 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(135deg, #c991c5 1%,#bb817f 49%,#8caaf3 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    position: relative;
+}
+#latest .body .column .bg-square img, #latest .body .column .bg-square2 img, #latest .body .column .bg-square3 img{
+    width: 80%;
+    position: absolute;
+    top: -30%;
+    left: 10%;
+}
+ 
+ 
