@@ -188,6 +188,16 @@
     font-weight: 700;
     font-size: 2.5rem; 
 }
+#latest .footer{
+    text-align: center;
+
+}
+#latest .footer img{
+    width: 20%;
+    margin: 0 auto;
+    
+}
+    
     
 
 
