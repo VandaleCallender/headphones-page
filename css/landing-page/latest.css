@@ -107,8 +107,8 @@
     height: 94px;
     border: 10px solid white;
     position: absolute;
-    top: -25px;
-    right: -33px;
+    top: -37px;
+    right: -51px;
     border-radius: 50%;
     background: #b284fa; /* Old browsers */
     background: -moz-linear-gradient(-45deg, #b284fa 0%, #b284fa 22%, #d8886c 39%, #f8a343 52%, #b685f2 100%); /* FF3.6-15 */
@@ -121,8 +121,8 @@
     height: 94px;
     border: 10px solid white;
     position: absolute;
-    top: -25px;
-    right: -33px;
+    top: -37px;
+    right: -51px;
     border-radius: 50%;
     background: #af60e1; /* Old browsers */
     background: -moz-linear-gradient(-45deg, #af60e1 1%, #7a66f4 100%); /* FF3.6-15 */
@@ -135,8 +135,8 @@
     height: 94px;
     border: 10px solid white;
     position: absolute;
-    top: -25px;
-    right: -33px;
+    top: -37px;
+    right: -51px;
     border-radius: 50%;
     background: #c991c5; /* Old browsers */
     background: -moz-linear-gradient(-45deg, #c991c5 1%, #bb817f 49%, #8caaf3 100%); /* FF3.6-15 */
@@ -148,8 +148,8 @@
 #latest .body .column .bg-square .cart .fas, #latest .body .column .bg-square2 .cart .fas, #latest .body .column .bg-square3 .cart .fas {
     font-size: 2rem;
     position: relative;
-    top: 14px;
-    left: -3px;
+    top: 19px;
+    left: -2px;
 }
 
  
