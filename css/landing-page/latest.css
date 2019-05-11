@@ -103,8 +103,8 @@
     left: 10%;
 }
 #latest .body .column .bg-square .cart {
-    width: 80px;
-    height: 80px;
+    width: 94px;
+    height: 94px;
     border: 10px solid white;
     position: absolute;
     top: -25px;
@@ -117,8 +117,8 @@
     color: white;
 }
 #latest .body .column .bg-square2 .cart {
-    width: 80px;
-    height: 80px;
+    width: 94px;
+    height: 94px;
     border: 10px solid white;
     position: absolute;
     top: -25px;
@@ -131,8 +131,8 @@
     color: white;
 }
 #latest .body .column .bg-square3 .cart {
-    width: 80px;
-    height: 80px;
+    width: 94px;
+    height: 94px;
     border: 10px solid white;
     position: absolute;
     top: -25px;
@@ -143,6 +143,13 @@
     background: -webkit-linear-gradient(-45deg, #c991c5 1%,#bb817f 49%,#8caaf3 100%); /* Chrome10-25,Safari5.1-6 */
     background: linear-gradient(135deg, #c991c5 1%,#bb817f 49%,#8caaf3 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
     color: white;
+}
+
+#latest .body .column .bg-square .cart .fas, #latest .body .column .bg-square2 .cart .fas, #latest .body .column .bg-square3 .cart .fas {
+    font-size: 2rem;
+    position: relative;
+    top: 14px;
+    left: -3px;
 }
 
  
