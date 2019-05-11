@@ -190,12 +190,22 @@
 }
 #latest .footer{
     text-align: center;
-
+    position: relative;
 }
 #latest .footer img{
     width: 20%;
-    margin: 0 auto;
-    
+    z-index: 1;
+    position: absolute;
+    top: 0;
+    left: 37%
+}
+#latest .footer .info-box{
+    position: relative;
+    z-index: 2;
+    padding: 200px 0;   
+}
+#latest .footer .info-box h2{
+    color: #6066f2;
 }
     
     
