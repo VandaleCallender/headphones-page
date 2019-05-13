@@ -62,6 +62,7 @@ background: linear-gradient(135deg, #ffffff 1%,#ffffff 40%,#8948f2 77%,#e0a1df 1
   position: relative;
   top: 7px;
   margin-left: 15px;   
+  color: #d5e2ea;
 }
 #top-jumbo .left-side .info-container .email-area input[type="email"]{
   background: white;
