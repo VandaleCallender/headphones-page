@@ -193,11 +193,11 @@
     position: relative;
 }
 #latest .footer img{
-    width: 20%;
+    width: 30%;
     z-index: 1;
     position: absolute;
-    top: 0;
-    left: 37%
+    top: 98px;
+    left: 31%
 }
 #latest .footer .info-box{
     position: relative;
@@ -251,7 +251,7 @@
 #latest .footer .info-box .input-area:nth-child(1) .fas{
     position: relative;
     top: 8px;
-    color: #d5e2ea;
+    color: #d5e2ea
 }
 #latest .footer .info-box .input-area button{
   background: #6066F2;
