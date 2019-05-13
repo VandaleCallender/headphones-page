@@ -145,3 +145,16 @@ background: linear-gradient(135deg, #be67e6 1%,#eca063 49%,#98bef5 75%); /* W3C,
     float: left;
     width: 20%; 
 }
+/*laptop devices*/
+@media only screen and (max-width: 1215px) {
+   
+}
+/*tablet devices*/
+@media only screen and (max-width: 1023px) {
+   
+}
+
+/*mobile devices*/
+@media only screen and (max-width: 767px) {
+   
+}
